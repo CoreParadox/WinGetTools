@@ -1,0 +1,23 @@
+{
+  "name": "winget-tools",
+  "version": "0.0.0",
+  "description": "some ts scripts to make working with winget json easier",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoreParadox/WinGetTools.git"
+  },
+  "author": "CoreParadox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoreParadox/WinGetTools/issues"
+  },
+  "homepage": "https://github.com/CoreParadox/WinGetTools#readme",
+  "devDependencies": {
+    "@types/node": "^20.4.4",
+    "ts-node": "^10.9.1"
+  }
+}
